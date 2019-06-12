@@ -1,4 +1,4 @@
-// test
+
 export default {
   mode: 'universal',
   /*
