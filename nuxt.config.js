@@ -19,6 +19,7 @@ export default {
   /*
   ** Customize the progress-bar color
   */
+ // Description added by krisblade
   loading: { color: '#fff' },
   /*
   ** Global CSS
