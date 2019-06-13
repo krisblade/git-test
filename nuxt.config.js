@@ -1,4 +1,4 @@
-
+// description added by krisblade
 export default {
   mode: 'universal',
   /*
