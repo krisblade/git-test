@@ -8,6 +8,7 @@
       <h2 class="subtitle">
         My awe-inspiring Nuxt.js project
       </h2>
+      <p>This is added by krisblade</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
