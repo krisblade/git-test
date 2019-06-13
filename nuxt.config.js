@@ -4,6 +4,7 @@ export default {
   /*
   ** Headers of the page
   */
+ // Description added by krispea
   head: {
     title: process.env.npm_package_name || '',
     meta: [
